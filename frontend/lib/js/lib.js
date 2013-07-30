@@ -15,7 +15,7 @@ function setMarkers(map,locations) {
 		var height = 40 * events.length * 0.6;
 
 		var pinIcon = new google.maps.MarkerImage(
-		    'lib/img/atari_2.svg',
+		    'lib/img/marker.svg',
 		    null, /* size is determined at runtime */
 		    null, /* origin is 0,0 */
 		    null, /* anchor is bottom center of the scaled image */
