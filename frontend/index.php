@@ -14,7 +14,7 @@ require_once('lib/php/demomap.class.php');
 	<link href="lib/css/style.css" rel="stylesheet" type="text/css" />
 
 	<script type="text/javascript" src="lib/js/jquery.js"></script>
-	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false&language=<?php echo $language; ?>"></script>
+	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false&language=de"></script>
 	<script type="text/javascript" src="lib/js/markers.js"></script>
 	<script type="text/javascript" src="lib/js/lib.js"></script>			
 	<script type="text/javascript">
