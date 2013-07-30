@@ -2,6 +2,8 @@
 
 Little webapp to display demo festivals.
 
+Visit [http://gopeter.de/clients/fh/demomap/](http://gopeter.de/clients/fh/demomap/) for a demonstration
+
 ## Installation
 
 1. Insert MySQL dump from /sql/demomap.sql
