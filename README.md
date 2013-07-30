@@ -1,8 +1,8 @@
-##### Demomap
+# Demomap
 
 Little webapp to display demo festivals.
 
-#### Installation
+## Installation
 
 1. Insert MySQL dump from /sql/demomap.sql
 2. Edit MySQL database information in /frontend/lib/php/database.class.php	
